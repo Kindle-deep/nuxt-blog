@@ -46,7 +46,7 @@ export default [{
         link: 'https://blog.ssyc.moe',
         feed: 'https://blog.ssyc.moe/rss.xml',
         icon: 'https://assets.ssyc.moe/favicon.ico',
-        avatar: 'https://assets.ssyc.moe/favicon.ico',
+        avatar: 'https://assets.ssyc.moe/image/favicon.ico',
         archs: ['Halo'],
         date: '2025-05-03',
         comment: '呆呆的',
