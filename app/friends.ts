@@ -50,5 +50,4 @@ export default [{
         archs: ['Halo'],
         date: '2025-05-03',
         comment: '呆呆的',
-    }
-}] satisfies FeedGroup[]
+    }] satisfies FeedGroup[]
