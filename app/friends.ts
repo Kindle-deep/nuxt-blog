@@ -39,5 +39,16 @@ export default [{
         archs: ['Next.js', '国内 CDN'],
         date: '2025-05-03',
         comment: '前端学习。',
-    }],
+    }, {
+        author: '虫不知喔',
+        title: '虫不知喔',
+        desc: '若有韶月熹微，愿作流萤徂岁。',
+        link: 'https://blog.ssyc.moe',
+        feed: 'https://blog.ssyc.moe/rss.xml',
+        icon: 'https://assets.ssyc.moe/favicon.ico',
+        avatar: 'https://assets.ssyc.moe/favicon.ico',
+        archs: ['Halo'],
+        date: '2025-05-03',
+        comment: '呆呆的',
+    }
 }] satisfies FeedGroup[]
