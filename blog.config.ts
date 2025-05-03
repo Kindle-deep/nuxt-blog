@@ -8,10 +8,10 @@ export { zhCN as dateLocale } from 'date-fns/locale/zh-CN'
 // 存储 nuxt.config 和 app.config 共用的配置
 // 此处为启动时需要的配置，启动后可变配置位于 app/app.config.ts
 const blogConfig = {
-    title: 'CHinyuanTai',
+    title: 'ChinyuanTai',
     subtitle: 'LOVE&PEACE',
     // 长 description 利好于 SEO
-    description: 'CHinyuanTai的个人博客，分享技术与生活。“LOVE&PEACE”。这个博客记录了他在生活和技术学习中的点滴经历，充满启发与思考。网站界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域，为读者提供了卓越的阅读体验。',
+    description: 'ChinyuanTai的个人博客，分享技术与生活。“LOVE&PEACE”。这个博客记录了他在生活和技术学习中的点滴经历，充满启发与思考。网站界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域，为读者提供了卓越的阅读体验。',
     author: {
         name: 'Chinyuan Tai',
         avatar: 'https://cdn.jsdmirror.com/gh/Kindle-deep/picx-images-hosting@master/avatar.avif',
