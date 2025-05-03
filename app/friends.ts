@@ -50,4 +50,16 @@ export default [{
         archs: ['Halo'],
         date: '2025-05-03',
         comment: '呆呆的',
+    }, {
+        author: '清羽飞扬',
+        title: 'LiuShen\'s Blog',
+        desc: '柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜',
+        link: 'https://blog.liushen.fun/',
+        feed: 'https://blog.liushen.fun/atom.xml',
+        icon: 'https://blog.liushen.fun/info/avatar.ico',
+        avatar: 'https://weavatar.com/avatar/92c15d4a1d99a8ee04b986a14a5f7e009e574b3383fc575005947988ccf205e2',
+        archs: ['Hexo', '国内 CDN'],
+        date: '2025-05-03',
+        comment: '六神花露水 驱蚊必备',
+    }],
     }] satisfies FeedGroup[]
