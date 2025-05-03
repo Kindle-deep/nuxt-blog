@@ -42,7 +42,7 @@ export default defineAppConfig({
         /** 侧边栏底部图标导航 */
         iconNav: [
             { icon: 'ph:house-bold', text: '个人主页', url: blogConfig.author.homepage },
-            { icon: 'ri:qq-line', text: '交流群: 854262623', url: 'https://qm.qq.com/cgi-bin/qm/qr?k=YKJWiw4IJJjwyoYr08fqkKm7wGT-Nlej&authKey=0mclGRglFkq3Ctz4CTadNNrtP8PB7upoBVnHsJbFmT9cwDoDUwghRzsoIzGKrFZw&noverify=0&group_code=854262623' },
+            { icon: 'ri:qq-line', text: '交流群: 854262623', url: 'https://qm.qq.com/cgi-bin/qm/qr?k=KwfYZSo1qQtXXNhX2sNyPIDIslSOQsEF&jump_from=webapi&authKey=cS3/uVjfuw7WZYdTHry6unilCC8Hwckx9EDU0bgNZZLfAlRluM+Zdhk9R7R+bLmz' },
             { icon: 'ph:github-logo-bold', text: 'GitHub: Kindle-deep', url: 'https://github.com/Kindel-deep' },
             { icon: 'ph:rss-simple-bold', text: 'Atom订阅', url: '/atom.xml' },
             /**{ icon: 'ph:subway-bold', text: '开往', url: 'https://www.travellings.cn/go-by-clouds.html' },*/
@@ -59,7 +59,7 @@ export default defineAppConfig({
             {
                 title: '社交',
                 items: [
-                    { icon: 'ri:qq-line', text: '交流群: 854262623', url: 'https://qm.qq.com/cgi-bin/qm/qr?k=YKJWiw4IJJjwyoYr08fqkKm7wGT-Nlej&authKey=0mclGRglFkq3Ctz4CTadNNrtP8PB7upoBVnHsJbFmT9cwDoDUwghRzsoIzGKrFZw&noverify=0&group_code=854262623' },
+                    { icon: 'ri:qq-line', text: '交流群: 854262623', url: 'https://qm.qq.com/cgi-bin/qm/qr?k=KwfYZSo1qQtXXNhX2sNyPIDIslSOQsEF&jump_from=webapi&authKey=cS3/uVjfuw7WZYdTHry6unilCC8Hwckx9EDU0bgNZZLfAlRluM+Zdhk9R7R+bLmz' },
                     { icon: 'ph:github-logo-bold', text: 'GitHub: Kindle-deep', url: 'https://github.com/Kindel-deep' },
                     { icon: 'ph:envelope-simple-bold', text: blogConfig.author.email, url: `mailto:${blogConfig.author.email}` },
                 ],
