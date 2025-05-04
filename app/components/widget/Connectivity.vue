@@ -4,7 +4,7 @@ const appConfig = useAppConfig()
 
 <template>
     <h3 class="widget-title">
-        可访问性
+        网站信息
     </h3>
     <div
         class="widget-card seasonal"
