@@ -99,7 +99,7 @@ export const routeRules = <NitroConfig['routeRules']>{
     '/api/stats': { prerender: true, headers: { 'Content-Type': 'application/json' } },
     '/atom.xml': { prerender: true, headers: { 'Content-Type': 'application/xml' } },
     '/favicon.ico': { redirect: { to: blogConfig.favicon } },
-    '/zhilu.opml': { prerender: true, headers: { 'Content-Type': 'application/xml' } },
+    '/knlde.opml': { prerender: true, headers: { 'Content-Type': 'application/xml' } },
 }
 
 export default blogConfig
