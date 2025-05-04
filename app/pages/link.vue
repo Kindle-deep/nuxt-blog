@@ -36,7 +36,7 @@ const { data: postLink } = await useAsyncData('/link', () => queryContent('/link
             <p>
                 我制作了本站的
                 <!-- eslint-disable-next-line vue/singleline-html-element-content-newline -->
-                <ProseA href="/knlde.opml">友链源 OPML 聚合</ProseA>，可导入阅读器
+                <ProseA href="/zhilu.opml">友链源 OPML 聚合</ProseA>，可导入阅读器
                 <!-- eslint-disable-next-line vue/singleline-html-element-content-newline -->
             </p>
         </div>
