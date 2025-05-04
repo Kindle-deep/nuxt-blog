@@ -60,7 +60,7 @@ export default defineAppConfig({
                 title: '社交',
                 items: [
                     { icon: 'ri:qq-line', text: '交流群: 854262623', url: 'https://qm.qq.com/cgi-bin/qm/qr?k=KwfYZSo1qQtXXNhX2sNyPIDIslSOQsEF&jump_from=webapi&authKey=cS3/uVjfuw7WZYdTHry6unilCC8Hwckx9EDU0bgNZZLfAlRluM+Zdhk9R7R+bLmz' },
-                    { icon: 'ph:github-logo-bold', text: 'GitHub: Kindle-deep', url: 'https://github.com/Kindel-deep' },
+                    { icon: 'ph:github-logo-bold', text: 'GitHub: Kindel-deep', url: 'https://github.com/Kindel-deep' },
                     { icon: 'ph:envelope-simple-bold', text: blogConfig.author.email, url: `mailto:${blogConfig.author.email}` },
                 ],
             },
