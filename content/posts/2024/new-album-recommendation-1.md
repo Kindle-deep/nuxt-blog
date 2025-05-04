@@ -3,7 +3,7 @@ title: 新专推荐 - 时隔五年的惊喜
 description: 介绍了椎名林擒时隔五年的新专辑《放生会》
 date: 2024-06-08T13:56:41+08:00
 updated: 2024-06-08T13:56:41+08:00
-image: https://cdn.jsdmirror.com//gh/Kindle-deep/picx-images-hosting@master/cover.73tslhoish.jpg
+image: https://cdn.jsdmirror.com/gh/Kindle-deep/picx-images-hosting@master/cover.73tslhoish.jpg
 categories: [生活]
 tags: [音乐, 新专辑, 推荐]
 ---

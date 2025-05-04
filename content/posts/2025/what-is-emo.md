@@ -1,9 +1,9 @@
 ---
 title: What is emo?
 description: 介绍了emo音乐的前世今生
-date: 2025-05-04 10:58:52 AM
-updated: 2025-05-04 10:58:52 AM
-# image: 
+date: 2025-05-04 06:58:52 PM
+updated: 2025-05-04 06:58:52 PM
+image: https:/cdn.jsdmirror.com/gh/Kindle-deep/picx-images-hosting@master/what-is-emo.avif
 # type: story
 categories: [生活]
 tags: [Emo, music, Midwest-emo, Math-rock]
