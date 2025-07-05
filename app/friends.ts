@@ -63,7 +63,7 @@ export default [{
         comment: '六神花露水 驱蚊必备',
     }, {
         author: 'Falling42',
-        title: 'Falling42's Blog',
+        title: 'Falling42 Blog',
         desc: 'Fate lies within the light cone.',
         link: 'https://falling42.net/',
         icon: 'https://s2.loli.net/2025/05/18/9COuFnVdT7vmjSN.png',
