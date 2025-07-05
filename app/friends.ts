@@ -61,5 +61,15 @@ export default [{
         archs: ['Hexo', '国内 CDN'],
         date: '2025-05-03',
         comment: '六神花露水 驱蚊必备',
+    }, {
+        author: 'Falling42',
+        title: 'Falling42's Blog',
+        desc: 'Fate lies within the light cone.',
+        link: 'https://falling42.net/',
+        icon: 'https://s2.loli.net/2025/05/18/9COuFnVdT7vmjSN.png',
+        avatar: 'https://s2.loli.net/2025/05/18/9COuFnVdT7vmjSN.png',
+        archs: ['CloudFlare'],
+        date: '2025-07-05',
+        comment: '低熵体',
     }],
     }] satisfies FeedGroup[]
